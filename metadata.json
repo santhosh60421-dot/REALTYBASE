@@ -1,0 +1,6 @@
+{
+  "name": "REALTYBASE: India Real Estate Compliance & Business Engine",
+  "description": "Source-grounded compliance assistant, regulatory knowledge base, and precision calculation engine for Indian real estate brokerages, agencies, and developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
